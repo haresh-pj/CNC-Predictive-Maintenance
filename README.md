@@ -98,7 +98,4 @@ cnc-maintenance-mlops/
 - [Streamlit Documentation](https://docs.streamlit.io)
 - [GitHub Actions](https://docs.github.com/actions)
 
----
-
-Made with ❤️ by Ramkumar
 
